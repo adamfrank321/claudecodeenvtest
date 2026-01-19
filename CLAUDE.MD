@@ -14,6 +14,8 @@ claudecodeenvtest/
 
 ## Development Guidelines
 
+- This is me testing git
+
 ### Git Workflow
 
 - **Main Branch**: Default branch for stable code
